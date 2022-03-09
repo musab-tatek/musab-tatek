@@ -9,7 +9,7 @@
 <a href="https://www.musabtatek.ml"><img height="30" src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/main/website.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> Musab | 💻 Ethical Hacker & Programmer | Addis Ababa , Ethiopia</h3>
+<h3> Musab Tatek | 💻 Ethical Hacker & Programmer | Addis Ababa , Ethiopia</h3>
 </div>
 
 <p align="center">
