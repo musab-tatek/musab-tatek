@@ -35,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/django.png" alt="django" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
