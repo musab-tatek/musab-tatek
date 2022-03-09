@@ -47,10 +47,8 @@
 
 ### - Blogs 🌱
 
-
 <p align="center">
-  <a href="https://blog.musabtatek.ml">
-  </a>
+  <a href="https://blog.musabtatek.ml">blog.musabtatek.ml</a>
 </p>
 
 
