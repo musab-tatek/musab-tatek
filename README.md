@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/musab-tatek/musab-tatek/40871a86e89579c5b52e8de2388bdaeae8866a1b/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 
